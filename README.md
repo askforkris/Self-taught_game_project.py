@@ -1,1 +1,1 @@
-Get image up in git hub
+Im asking fir orogramming help to get my image up in pygsme. my window keeps crashing with no display. this is my second month working on my application. my code is reading zero errors but the problem presist
